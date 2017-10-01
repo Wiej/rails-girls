@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 "# railgirls" 
+"# rails-girls" 
